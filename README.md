@@ -36,7 +36,7 @@ Projects with **Agile** and if It's possible, **Scrum** is a plus
 
 ### ⚡ I’m looking for help with ...
 
-Hmmm **React** I should say as ==It's the most unknownk technology for me==
+Hmmm **React** I should say as <mark>It's the most unknownk technology for me</mark>
 
 ### ⚡ Fun fact: ...
 
