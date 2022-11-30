@@ -29,6 +29,7 @@ Right now in this section I have a lot of things to talk about but summarizing;
 * **Testing**
 * **CSS**
 * **HTML5**
+* **Kotlin**
 
 ### ⚡ I’m looking to collaborate on ...
 
