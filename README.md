@@ -1,45 +1,42 @@
-<!DOCTYPE html>
-<html lang=""es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilos.css">
-    <title>CV de Ernesto Leopoldo Oroño</title>
-</head>
-<body>
-    
+### Hi there 
 
+My name is Leo Oroño and if You are here I'm willing to know a little bit more about You.
 
-<center><h1>Currículum Vitae</h1>
-    <p id="tema">El tema actual es Negro sobre Blanco (1) <button id="boton" type="button">Cambiar tema</button></p></center>
+<!--
+**leooronio/leooronio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+### ⚡ I’m currently working on ...
+A big transnational company giving my firts steps as QA Junior
 
+### ⚡ I’m currently learning ...
 
-    <table style="border: 2px #000000 none" width="100%" height="100%">
-        <tbody>
-            <tr>
-                <td style="border: 2px #000000 none"><p id="info"><b>Información Personal</b> (Click para ver)</p></td>
-                <td style="border: 2px #000000 none"><p id="experiencia"><b>Experiencia Laboral</b> (Click para ver)</p></td>
-                <td style="border: 2px #000000 none"><p id="habilidades"><b>Habilidades</b> (Click para ver)</p></td>
-                <td style="border: 2px #000000 none"><p><img src="cv_image.png" alt="Foto para el Currículum Vitae" width="300" height="300"></p></td>
-            </tr>
-            <tr>
-                <td style="border: 2px #b92727 solid" colspan="4">Cell 1x2</td>
-            </tr>
-            <tr>
-                <td align ="center" style="border: 2px #000000" colspan="4">Cell 3x3</td>
-            </tr>
-        </tbody>
-    </table>
+Right now in this section I have a lot of things to talk about but summarizing;
 
+* **GIT**
+* **Javascript**
+* **React**
+* **Testing**
+* **CSS**
+* **HTML5**
+* **Kotlin**
 
+### ⚡ I’m looking to collaborate on ...
 
+Projects with **Agile** and if It's possible, **Scrum** is a plus
 
+### ⚡ I’m looking for help with ...
 
+Hmmm **React** I should say as <mark>It's the most unknown technology for me</mark>
 
+### ⚡ Fun fact: ...
 
-
-<script src="comportamientos.js"></script>
-
-</body>
-</html>
+This page was created as the final task foe a course that I've finished about **GIT**
