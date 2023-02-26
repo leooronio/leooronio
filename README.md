@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 ### ⚡ I’m currently working on ...
 A big transnational company giving my firts steps as QA Junior
 
+![cv_image](https://user-images.githubusercontent.com/116230738/221438021-12f77d84-f3a2-4034-92f6-310e628a6c9b.png)
+
+<a href="cv.html">Google</a>
+
+
 ### ⚡ I’m currently learning ...
 
 Right now in this section I have a lot of things to talk about but summarizing;
